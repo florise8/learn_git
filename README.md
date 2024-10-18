@@ -1,5 +1,4 @@
-GoMyCode Git Project. 
-Create a folder called learn_git.
+Creating a folder called learn_git.
 Cd (change directory) into the learn_git folder.
 Create a file called third.txt.
 Initialize an empty git repository.
